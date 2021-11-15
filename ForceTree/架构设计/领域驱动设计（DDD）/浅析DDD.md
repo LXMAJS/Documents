@@ -60,11 +60,11 @@
 
 领域驱动设计中的模型关系图如下：
 
-![ddd-4-1](/Users/lxmajs/Documents/Private/能力树/架构设计/领域驱动设计（DDD）/ddd-4-1.png)
+![ddd-4-1](ddd-4-1.png)
 
 层结构图如下：
 
-![ddd-4-2](/Users/lxmajs/Documents/Private/能力树/架构设计/领域驱动设计（DDD）/ddd-4-2.png)
+![ddd-4-2](ddd-4-2.png)
 
 1. User Interface：向用户展示信息，并且会解析用户行为，即常说的展现层；
 2. Application Layer：应用层没有任何业务逻辑代码，它很简单，主要为程序提供任务处理；
