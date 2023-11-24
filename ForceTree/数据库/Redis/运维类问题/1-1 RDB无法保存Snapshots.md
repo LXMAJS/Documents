@@ -60,7 +60,7 @@ org.springframework.data.redis.RedisSystemException: Error in execution; nested 
 
 #### 1、磁盘
 
-由日志中可以看出，可能是由于磁盘空间不够导致，但是使用了 ``free`` 命令 和 ``df -sh *`` 命令查看吸盘空间，显示都是空间足够的：
+由日志中可以看出，可能是由于磁盘空间不够导致，但是使用了 ``free`` 命令 和 ``df -sh *`` 命令查看磁盘空间，显示都是空间足够的：
 
 ![1-1_1-2](Images/1-1_1-2.png)
 
